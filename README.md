@@ -15,7 +15,7 @@
 Daftar Repo :
 
 | `Pertemuan` | `Nama Repo` | `Tanggal` | `Kegunaan` |
-| --- | --- | --- |
+| ----------- | ----------- | --------- | ---------- |
 | *1* | [Pertemuan 1](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-01) | *07 - 09 - 2018* | *Rangkuman Materi tentang XaaS.* |
 | *2* | [Pertemuan 2](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-02) | *14 - 09 - 2018* | *Penjelasan singkat mengenai SaaS.* |
 | *3* | [Pertemuan 3](https://github.com/Apriliana2424/tct/tree/master/minggu%20ke-03) | *21 - 09 - 2018* | *Penjelasan singkat mengenai Architecture as a Service.* |
@@ -38,8 +38,3 @@ Daftar Repo :
 > NIM : 163210008
 
 ---
-
-| Command | Description |
-| --- | --- |
-| `git status` | List all *new or modified* files |
-| `git diff` | Show file differences that **haven't been** staged |
